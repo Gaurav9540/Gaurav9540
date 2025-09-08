@@ -1,9 +1,36 @@
 # 👋 Hi, I'm Gaurav (@Gaurav9540)
 
-- 👀 I’m interested in **DevOps, Cloud, and Automation**
-- 🌱 Currently learning **Kubernetes, Terraform, AWS**
-- 💞️ Open to collaborate on **Cloud & DevOps projects**
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/your-link/) | [Email](mailto:yourmail@gmail.com)
+I’m a **DevOps & Cloud Enthusiast** passionate about automating infrastructure, scaling applications, and learning modern cloud-native technologies.  
+Currently exploring **Kubernetes, Terraform, AWS, Docker, and CI/CD pipelines**.
+
+---
+
+## 🔭 What I’m working on
+- 🚀 Building **Cloud & DevOps projects** on AWS
+- ⚡ Learning **Kubernetes, Terraform, Docker, and Jenkins**
+- 🛠️ Practicing **Linux server automation & monitoring**
+- 📦 Deploying apps with **CI/CD pipelines**
+
+---
+
+## 🌱 Currently Learning
+- ☸️ Kubernetes (EKS, Helm, Operators)  
+- 🏗️ Infrastructure as Code (Terraform, Ansible)  
+- ☁️ AWS Cloud Services (EC2, S3, RDS, IAM, VPC)  
+- 🐳 Docker & container orchestration  
+
+---
+
+## 🤝 Looking to Collaborate On
+- 🔹 Open-source **DevOps & Cloud projects**  
+- 🔹 Infrastructure automation with Terraform & Ansible  
+- 🔹 CI/CD pipelines using GitHub Actions, Jenkins, CodePipeline  
+
+---
+
+## 📫 How to reach me
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)  
+- 📧 [Email](mailto:yourmail@gmail.com)  
 
 ---
 
@@ -13,6 +40,10 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
