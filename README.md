@@ -80,6 +80,11 @@ Currently exploring **Kubernetes, Terraform, AWS, Docker, and CI/CD pipelines**.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
 
 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=social&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=social&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=social&logo=amazon-aws)
+
+
 
 ## 📊 GitHub Stats
 ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaurav9540&show_icons=true&theme=tokyonight)
