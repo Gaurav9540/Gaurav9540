@@ -5,6 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Gaurav+(%40Gaurav9540))](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Gaurav+(%40Gaurav9540))](https://git.io/typing-svg)
 
 I’m a **DevOps & Cloud Enthusiast** passionate about automating infrastructure, scaling applications, and learning modern cloud-native technologies.  
 Currently exploring **Kubernetes, Terraform, AWS, Docker, and CI/CD pipelines**.
