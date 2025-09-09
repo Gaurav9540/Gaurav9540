@@ -67,6 +67,26 @@ Currently exploring **Kubernetes, Terraform, AWS, Docker, and CI/CD pipelines**.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav9540&layout=compact&theme=radical)
 
 
+## 📊 GitHub Dashboard  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav9540&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" />
+  <img src="https://streak-stats.demolab.com?user=Gaurav9540&theme=tokyonight&hide_border=true" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav9540&layout=compact&theme=radical&hide_border=true" height="150em" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gaurav9540&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav9540&theme=tokyo-night&hide_border=true" />
+</p>
+
+
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Gaurav9540&color=blue&style=flat)
