@@ -36,11 +36,6 @@ Currently exploring **Kubernetes, Terraform, AWS, Docker, and CI/CD pipelines**.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Gaurav9540&color=blue&style=flat)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/👁-Profile%20Views-blueviolet?style=for-the-badge" alt="Visitor Count"/>
-</p>
-
-
 ---
 
 ## 🚀 Tech Stack
