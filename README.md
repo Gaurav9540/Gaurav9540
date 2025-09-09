@@ -62,7 +62,7 @@ Currently exploring **Kubernetes, Terraform, AWS, Docker, and CI/CD pipelines**.
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav9540&show_icons=true&theme=tokyonight" alt="Gaurav's GitHub stats" width="1000" height="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav9540&show_icons=true&theme=tokyonight" alt="Gaurav's GitHub stats" width="800" height="300" />
 </p>
 
 ## 🔥 Streak Stats
