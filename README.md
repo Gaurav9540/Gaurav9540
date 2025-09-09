@@ -75,3 +75,9 @@ Currently exploring **Kubernetes, Terraform, AWS, Docker, and CI/CD pipelines**.
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Gaurav9540&color=blue&style=flat)
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav9540&show_icons=true&theme=tokyonight" alt="Gaurav's GitHub stats" width="450" height="200" />
+</p>
+
