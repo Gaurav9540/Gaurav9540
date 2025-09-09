@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="Banner" width="100%" />
+  <img src="https://stock.adobe.com/search?k=devops" alt="Banner" width="100%" />
 </p>
 
 # 👋 Hi, I'm Gaurav (@Gaurav9540)
