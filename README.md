@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://your-image-link.com/banner.png" alt="Banner" width="100%" />
+</p>
+
 # 👋 Hi, I'm Gaurav (@Gaurav9540)
 
 I’m a **DevOps & Cloud Enthusiast** passionate about automating infrastructure, scaling applications, and learning modern cloud-native technologies.  
