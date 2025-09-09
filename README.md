@@ -66,6 +66,32 @@ Currently exploring **Kubernetes, Terraform, AWS, Docker, and CI/CD pipelines**.
 ## 💻 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav9540&layout=compact&theme=radical)
 
+
+## 📊 GitHub Analytics Dashboard  
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav9540&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" />
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Gaurav9540&theme=highcontrast&hide_border=true" height="180em" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav9540&layout=compact&theme=radical&hide_border=true" height="150em" />
+</p>
+
+---
+
+## 🚀 Extra Insights  
+
+- 🔹 **Total Contributions (2025):** ![Contributions](https://github-contributor-stats.vercel.app/api?username=Gaurav9540&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)  
+- 🔹 **Trophies & Achievements:**  
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Gaurav9540&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  </p>
+
+
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Gaurav9540&color=blue&style=flat)
