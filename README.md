@@ -11,17 +11,11 @@ Currently exploring **Kubernetes, Terraform, AWS, Docker, and CI/CD pipelines**.
 
 ## 🔭 What I’m working on
 - 🚀 Building **Cloud & DevOps projects** on AWS
-- ⚡ Learning **Kubernetes, Terraform, Docker, and Jenkins**
+- ☁️ AWS Cloud Services (EC2, S3, RDS, IAM, VPC) 
+- 🏗️ Infrastructure as Code (Terraform, Ansible) 
+- 🐳 Docker & container orchestration  
 - 🛠️ Practicing **Linux server automation & monitoring**
 - 📦 Deploying apps with **CI/CD pipelines**
-
----
-
-## 🌱 Currently Learning
-- ☸️ Kubernetes (EKS, Helm, Operators)  
-- 🏗️ Infrastructure as Code (Terraform, Ansible)  
-- ☁️ AWS Cloud Services (EC2, S3, RDS, IAM, VPC)  
-- 🐳 Docker & container orchestration  
 
 ---
 
