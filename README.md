@@ -36,14 +36,9 @@ Currently exploring **Kubernetes, Terraform, AWS, Docker, and CI/CD pipelines**.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Gaurav9540&color=blue&style=flat)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Gaurav9540&color=blue&style=for-the-badge&label=Profile+Views)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Gaurav9540&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Gaurav9540&label=Profile+Visitors&color=green&style=flat-square)
-
-![Visitors](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Profile%20Views&query=value&url=https://komarev.com/ghpvc/?username=Gaurav9540&style=for-the-badge&logo=github)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gaurav9540&style=for-the-badge&color=7B42BC&label=Profile+Views" alt="Visitor Count"/>
+</p>
 
 ---
 
