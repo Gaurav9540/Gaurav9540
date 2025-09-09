@@ -18,10 +18,10 @@ Currently exploring **Kubernetes, Terraform, AWS, Docker, and CI/CD pipelines**.
 ---
 
 ## 🌱 Currently Learning
-☸️ Kubernetes (EKS, Helm, Operators)  
-🏗️ Infrastructure as Code (Terraform, Ansible)  
-☁️ AWS Cloud Services (EC2, S3, RDS, IAM, VPC)  
-🐳 Docker & container orchestration  
+- ☸️ Kubernetes (EKS, Helm, Operators)  
+- 🏗️ Infrastructure as Code (Terraform, Ansible)  
+- ☁️ AWS Cloud Services (EC2, S3, RDS, IAM, VPC)  
+- 🐳 Docker & container orchestration  
 
 ---
 
