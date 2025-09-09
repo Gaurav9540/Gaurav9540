@@ -18,17 +18,17 @@ Currently exploring **Kubernetes, Terraform, AWS, Docker, and CI/CD pipelines**.
 ---
 
 ## 🌱 Currently Learning
-- ☸️ Kubernetes (EKS, Helm, Operators)  
-- 🏗️ Infrastructure as Code (Terraform, Ansible)  
-- ☁️ AWS Cloud Services (EC2, S3, RDS, IAM, VPC)  
-- 🐳 Docker & container orchestration  
+☸️ Kubernetes (EKS, Helm, Operators)  
+🏗️ Infrastructure as Code (Terraform, Ansible)  
+☁️ AWS Cloud Services (EC2, S3, RDS, IAM, VPC)  
+🐳 Docker & container orchestration  
 
 ---
 
 ## 🤝 Looking to Collaborate On
-- 🔹 Open-source **DevOps & Cloud projects**  
-- 🔹 Infrastructure automation with Terraform & Ansible  
-- 🔹 CI/CD pipelines using GitHub Actions, Jenkins, CodePipeline  
+🔹 Open-source **DevOps & Cloud projects**  
+🔹 Infrastructure automation with Terraform & Ansible  
+🔹 CI/CD pipelines using GitHub Actions, Jenkins, CodePipeline  
 
 ---
 
