@@ -84,11 +84,6 @@ Currently exploring **Kubernetes, Terraform, AWS, Docker, and CI/CD pipelines**.
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav9540&layout=compact&theme=radical&hide_border=true" height="150em" />
-</p>
-
-<p align="center">
   <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav9540&theme=tokyo-night&hide_border=true" />
 </p>
