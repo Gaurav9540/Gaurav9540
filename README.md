@@ -32,6 +32,12 @@ Currently exploring **Kubernetes, Terraform, AWS, Docker, and CI/CD pipelines**.
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)  
 - 📧 [Email](mailto:yourmail@gmail.com)  
 - 🌐 [Portfolio](https://gaurav-pawar.netlify.app/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-🚀-blue?style=flat&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+
+
 ---
 
 ## 🚀 Tech Stack
