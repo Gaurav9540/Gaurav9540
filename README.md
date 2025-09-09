@@ -73,22 +73,6 @@ Currently exploring **Kubernetes, Terraform, AWS, Docker, and CI/CD pipelines**.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav9540&theme=tokyo-night&hide_border=true" />
 </p>
 
-
-
-## 📊 GitHub Analytics Dashboard  
-
-<p align="center">
-  <!-- Stats + Streaks -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav9540&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" />
-  <img src="https://streak-stats.demolab.com?user=Gaurav9540&theme=tokyonight&hide_border=true" height="180em" />
-</p>
-
-<p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav9540&theme=tokyo-night&hide_border=true" />
-</p>
-
-
 ---
 
 
