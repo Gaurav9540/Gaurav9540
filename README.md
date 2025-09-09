@@ -60,6 +60,11 @@ Currently exploring **Kubernetes, Terraform, AWS, Docker, and CI/CD pipelines**.
 ## 📊 GitHub Stats
 ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaurav9540&show_icons=true&theme=tokyonight)
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav9540&show_icons=true&theme=tokyonight" alt="Gaurav's GitHub stats" width="450" height="200" />
+</p>
+
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=Gaurav9540&theme=highcontrast&hide_border=true)
 
@@ -77,7 +82,5 @@ Currently exploring **Kubernetes, Terraform, AWS, Docker, and CI/CD pipelines**.
 ![Visitor Count](https://komarev.com/ghpvc/?username=Gaurav9540&color=blue&style=flat)
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav9540&show_icons=true&theme=tokyonight" alt="Gaurav's GitHub stats" width="450" height="200" />
-</p>
+
 
