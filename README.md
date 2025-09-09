@@ -2,9 +2,7 @@
   <img src="https://imgs.search.brave.com/mfd7S3Lyvj-rMsOu5mKBkm3cByF-4Qud2kJPE4JgQc4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA2LzA3Lzc0LzA5/LzM2MF9GXzYwNzc0/MDk0MV9NbjNvWkhy/Q3RnYkF3NmxOQ1RJ/Z3VqMDZ2b3hSM29Q/Si5qcGc" alt="Banner" width="100%" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Gaurav+(%40+Gaurav9540))](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=64F700&width=435&lines=%23+%F0%9F%91%8B+Hi%2C+I'm+Gaurav+(%40+Gaurav9540))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=64F700&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Gaurav+(%40+Gaurav9540))](https://git.io/typing-svg)
 
 I’m a **DevOps & Cloud Enthusiast** passionate about automating infrastructure, scaling applications, and learning modern cloud-native technologies.  
 Currently exploring **Kubernetes, Terraform, AWS, Docker, and CI/CD pipelines**.
