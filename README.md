@@ -32,41 +32,11 @@ Currently exploring **Kubernetes, Terraform, AWS, Docker, and CI/CD pipelines**.
 
 ---
 
-## 📫 How to reach me
-- 📧 [Email](mailto:gauravpawar9540@gmail.com) 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gauravpawar9540 )   
-- 🌐 [Portfolio](https://gaurav-pawar.netlify.app/)
-
-
-## 📫 How to reach me  
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravpawar9540@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravpawar9540)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://gaurav-pawar.netlify.app/)  
-
-
 ## 📫 How to reach me  
 
 📧 **Email:** [gauravpawar9540@gmail.com](mailto:gauravpawar9540@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/gauravpawar9540](https://www.linkedin.com/in/gauravpawar9540)  
 🌐 **Portfolio:** [gaurav-pawar.netlify.app](https://gaurav-pawar.netlify.app/)  
-
-
-## 📫 How to reach me  
-
-<p align="center">
-  <a href="mailto:gauravpawar9540@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
-  <a href="https://www.linkedin.com/in/gauravpawar9540"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="https://gaurav-pawar.netlify.app/"><img src="https://img.icons8.com/external-flat-juicy-fish/48/external-portfolio-graphic-design-flat-flat-juicy-fish.png"/></a>
-</p>
-
-
-## 📫 How to reach me  
-
-💌 [**Email**](mailto:gauravpawar9540@gmail.com) |  
-🌐 [**Portfolio**](https://gaurav-pawar.netlify.app/) |  
-💼 [**LinkedIn**](https://www.linkedin.com/in/gauravpawar9540)  
-
 
 ---
 
