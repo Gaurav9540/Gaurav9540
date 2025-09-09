@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgs.search.brave.com/mfd7S3Lyvj-rMsOu5mKBkm3cByF-4Qud2kJPE4JgQc4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA2LzA3Lzc0LzA5/LzM2MF9GXzYwNzc0/MDk0MV9NbjNvWkhy/Q3RnYkF3NmxOQ1RJ/Z3VqMDZ2b3hSM29Q/Si5qcGc" alt="Banner" width="50%" />
+  <img src="https://imgs.search.brave.com/mfd7S3Lyvj-rMsOu5mKBkm3cByF-4Qud2kJPE4JgQc4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA2LzA3Lzc0LzA5/LzM2MF9GXzYwNzc0/MDk0MV9NbjNvWkhy/Q3RnYkF3NmxOQ1RJ/Z3VqMDZ2b3hSM29Q/Si5qcGc" alt="Banner" width="70%" />
 </p>
 
 # 👋 Hi, I'm Gaurav (@Gaurav9540)
