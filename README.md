@@ -28,7 +28,7 @@ Currently exploring **Kubernetes, Terraform, AWS, Docker, and CI/CD pipelines**.
 
 📧 **Email:** [gauravpawar9540@gmail.com](mailto:gauravpawar9540@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/gauravpawar9540](https://www.linkedin.com/in/gauravpawar9540)  
-🌐 **Portfolio:** [gaurav-pawar.netlify.app](https://gaurav-pawar.netlify.app/)  
+🌐 **Portfolio:** [gaurav-pawar.netlify.app](https://balapawar.info)  
 
 ---
 
